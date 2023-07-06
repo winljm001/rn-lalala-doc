@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrn_lalala=self.webpackChunkrn_lalala||[]).push([[433],{3358:function(s,r,n){n.r(r),n.d(r,{default:function(){return u}});var t=n(74878),a=n(66269),l=n(11527),d=function(){return(0,l.jsx)(t.Z,{children:(0,l.jsx)(a.Z,{children:"HelloWord1"})})},e=function(){return(0,l.jsx)(t.Z,{children:(0,l.jsx)(d,{})})},u=e}}]);
